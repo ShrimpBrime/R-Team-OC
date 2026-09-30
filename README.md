@@ -1,4 +1,4 @@
-R-Team OC
+R-Team OC (currently in beta)
 
 Portable Radeon tuning, live telemetry, and a personalized desktop experience.
 
