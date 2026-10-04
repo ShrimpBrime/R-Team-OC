@@ -1,4 +1,4 @@
-R-Team OC (currently in beta)
+R-Team OC (currently in beta) - Click Releases to the right ------->
 
 Portable Radeon tuning, live telemetry, and a personalized desktop experience.
 
